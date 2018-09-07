@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sport News</string>
+    <string name="football">Футбол</string>
+    <string name="hockey">Хоккей</string>
+    <string name="tennis">Теннис</string>
+    <string name="basketball">Баскетбол</string>
+    <string name="volleyball">Волейбол</string>
+    <string name="cybersport">Киберспорт</string>
+    <string name="prediction">Прогноз:</string>
+    <string name="Facts">Факты:</string>
+    <string name="network_error">Ошибка сети</string>
+</resources>

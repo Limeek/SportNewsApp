@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Sport News</string>
+    <string name="football">Football</string>
+    <string name="hockey">Hockey</string>
+    <string name="tennis">Tennis</string>
+    <string name="basketball">Basketball</string>
+    <string name="volleyball">Volleyball</string>
+    <string name="cybersport">Cybersport</string>
+    <string name="prediction">Prediction:</string>
+    <string name="Facts">Facts:</string>
+    <string name="network_error">Network Error</string>
+</resources>
